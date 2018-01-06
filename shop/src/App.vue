@@ -7,7 +7,7 @@
 </template>
 
 <script>
-// import 'animate.css/animate.min.css'
+import 'animate.css/animate.min.css'
 
 export default {
   name: 'app'
