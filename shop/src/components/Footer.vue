@@ -4,10 +4,10 @@
     <div class="footer__secondary">
       <div class="footer__inner">
         <div class="footer__region">
-          <span>Region</span>
+          <span>Stark</span>
         </div>
         <div class="footer__secondary__nav">
-          <span>Copyright © 2017 Shudong All Rights Reserved.</span>
+          <span>Copyright © 2017 Shudong.wang All Rights Reserved.</span>
         </div>
       </div>
     </div>
